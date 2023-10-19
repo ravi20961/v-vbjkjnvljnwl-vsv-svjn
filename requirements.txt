@@ -7,3 +7,6 @@ Black and white at login page
 
 page add:
 logout page
+
+payment oprtions (optioanal):
+upi
