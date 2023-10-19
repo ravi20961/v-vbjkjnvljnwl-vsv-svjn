@@ -4,3 +4,6 @@ home page
 
 Colours Added:
 Black and white at login page
+
+page add:
+logout page
