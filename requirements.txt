@@ -7,3 +7,7 @@ Black and white at login page
 
 page add:
 logout page
+
+payment oprtions (optional):
+send money 
+receive branch
